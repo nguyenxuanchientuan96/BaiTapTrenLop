@@ -1,0 +1,161 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+body{
+  max-width: 960px;
+  margin: 0px auto;
+}
+
+li a{
+  text-decoration: none;
+}
+
+
+
+
+#header{
+  overflow: hidden;
+  width:100%;
+  height:200px;
+  background-color:lightblue;
+}
+#header .logo{
+  width:20%;
+  float:left;
+}
+#header .logo img{
+  max-width: 100%;
+}
+#header .header-text{
+  width: 50%;
+  float: left;
+ 
+}
+#header .header-text h1{
+  text-align: center;
+  font-size: 50px;
+  color: red;
+}
+#header .header-text h2{
+  text-align: center;
+  font-size: 25px;
+  color: green;
+  padding-top: 25px;
+}
+#header .header-intro{
+  width: 30%;
+  float: left;
+}
+.contact{
+  width: 100%;
+  margin: 5px 0px;
+  overflow: hidden;
+  background-color:  #FF0000;
+}
+
+.contact p{
+  width: 20%;
+  float: left;
+  padding: 10px 0px;
+  color: white;
+}
+#menu{
+  width: 100%;
+  overflow: hidden;
+  background-color: lightgreen;
+}
+
+#menu li{
+  width: 15%;
+  float: left;
+  padding: 10px 0px;
+  list-style: none;
+}
+#content{
+  width: 100%;
+  overflow: hidden;
+  margin-top:5px;
+}
+#slidebar {
+  width: 20%;
+  background-color: lightgoldenrodyellow;
+  float:left;
+ 
+}
+#slidebar h2{
+  color: red;
+  text-align: center;
+  border: 1px solid red;
+}
+#slidebar ul li{
+  padding-left: 20px;
+  
+}
+#slidebar ul{
+  margin: 10px 0px;
+}
+#main-content{
+  width: 80%;
+  float: left;
+}
+.main-content-img img{
+  width: 100%;
+  height: 250px;
+  overflow:hidden;
+}
+.hot{
+  width: 100%;
+  overflow: hidden;
+}
+.hot p{
+  font-size: 20px;
+  color: red;
+}
+.hot-img{
+  width: 30%;
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  background-color:lightblue;
+}
+.hot-img img{
+  width: 100%;
+}
+.hot-img p{
+  font-size: 15px;
+  text-align: center;
+  padding-top:15px;
+  font-weight:bold;
+}
+.hot-img h3{
+  text-align: center;
+  color: green;
+}
+.hot-img input[type=submit]{
+  margin-top: 60px;
+  margin-left: 80px;
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+}
+#menu-footer {
+  width: 100%;
+ background-color: yellow; 
+}
+#menu-footer ul{
+  margin-left: 50px;
+  margin-top: 15px;
+}
+#menu-footer li{
+  width: 15%;
+  float: left;
+  margin-left: 32px;
+  font-weight: bold;
+  list-style: none;
+  color: red;
+}
