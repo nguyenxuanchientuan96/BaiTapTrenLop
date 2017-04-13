@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: Arial, Times New Roman, san-serif;
+}
+body{
+  width: 960px;
+  margin: 0px auto;
+}
+a{
+
+}
+#header {
+  width: 100%;
+  border-bottom: 3px solid red;
+  background-color: lightcyan;
+}
+#header .header-intro h2{
+  font-family: URW Chancery L;
+  font-style: italic;
+  font-size: 40px;
+  color: red;
+}
+#header .header-text h1{
+  font-family: EmbossedBlack;
+  font-size: 50px;
+  color: green;
+  padding-left: 50px;
+}
+#content{
+  width: 100%;
+  overflow: hidden;
+  margin-top: 25px;
+}
+#content ul li{
+  margin: 5px 0px;
+}
+#content .content-left {
+  width: 33%;
+  float: left;
+  margin-left: 3%;
+}
+#content .content-right{
+  width: 33%;
+  float: left;
+}
+#content .content-img{
+  width: 30%;
+  float: left;
+  margin-top:50px;
+}
+#content .content-img{
+  max-width: 100%;
+}
