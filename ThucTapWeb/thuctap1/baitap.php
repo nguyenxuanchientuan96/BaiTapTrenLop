@@ -134,14 +134,14 @@
 
 		<div id="adv">
 			<div class="adv-img">
-				<img src="img/anh1.jpg"/>
+				<img src="img/anh1.JPG"/>
 			</div>
 			<div class="adv-text">
 				<p> Giới thiệu lớp chuyên đề ngôn ngữ lập trình C#, áp dụng trong lập trinhg web </p>
 				<p> Tuyển nhân viên lập trình web </p>
 			</div>
 			<div class="adv-img2">
-				<img src="img/anh2.jpg">
+				<img src="img/anh2.JPG">
 			</div>
 			<div class="adv-text2">
 				<a href="#"> Thông báo về lịch thi HK1 </a>

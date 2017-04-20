@@ -53,16 +53,16 @@
 		
 		<div class="main-header">
 			<div class="logo">
-				<img src="img/logo.png" alt="logo" title="logo"/>
+				<img src="img/logo.PNG" alt="logo" title="logo"/>
 			</div>
 			<div class="search">
 				<input type="text" name="txt-search" placeholder="Tìm kiếm sản phẩm, thương hiệu hay nhãn hàng mong muốn...">
 			</div>
 			<div class="cart">
-				<img src="img/cart.png" alt="cart" title="Thanh toán"/>
+				<img src="img/cart.PNG" alt="cart" title="Thanh toán"/>
 			</div>
 			<div class="advertisement">
-				<img src="img/sinhnhat.png" alt="advertisement" title="Sinh nhật 5 năm"/>
+				<img src="img/sinhnhat.PNG" alt="advertisement" title="Sinh nhật 5 năm"/>
 			</div>
 		</div> <!-- .main-header -->
 		
@@ -174,13 +174,13 @@
 				</div> <!-- .email -->
 				<div class="app">
 					<div class="info-app">
-						<img src="img/lazada.png" alt="info-app" title="">
+						<img src="img/lazada.PNG" alt="info-app" title="">
 						<h3> THẢNH THƠI MUA SẮM </h3>
 						<p> Tải App lazada </p>
 					</div> <!-- .info-app -->
 					<div class="appstore">
-						<img src="img/appstore.png" alt="appstore" title=""/>
-						<img src="img/googleplay.png" alt="appstore" title=""/>
+						<img src="img/appstore.PNG" alt="appstore" title=""/>
+						<img src="img/googleplay.PNG" alt="appstore" title=""/>
 					</div> <!-- .appstore -->
 				</div> <!-- .app -->
 				<div class="address">
@@ -198,37 +198,37 @@
 			<div class="cart-footer-1">
 				<h3> CÁCH THỨC THANH TOÁN </h3>
 				<div class="cart-footer-1-img">
-					<img src="img/visa.png" alt="cart" title="">
-					<img src="img/master.png" alt="cart" title="">
-					<img src="img/jcb.png" alt="cart" title="">
-					<img src="img/cash_on.png" alt="cart" title="">
-					<img src="img/smartlink.png" alt="cart" title="">
-					<img src="img/123pay.png" alt="cart" title="">
-					<img src="img/pig.png" alt="cart" title="">
+					<img src="img/visa.PNG" alt="cart" title="">
+					<img src="img/master.PNG" alt="cart" title="">
+					<img src="img/jcb.PNG" alt="cart" title="">
+					<img src="img/cash_on.PNG" alt="cart" title="">
+					<img src="img/smartlink.PNG" alt="cart" title="">
+					<img src="img/123pay.PNG" alt="cart" title="">
+					<img src="img/pig.PNG" alt="cart" title="">
 				</div> <!-- .cart-footer-1-img -->
 			</div> <!-- .cart-footer-1 -->
 			<div class="cart-footer-2">
 				<h3> DỊCH VỤ GIAO HÀNG </h3>
 				<div class="cart-footer-2-a">
-					<img src="img/vnpost.png" alt="" title=""/>
-					<img src="img/giaohangnhanh.png" alt="" title=""/>
+					<img src="img/vnpost.PNG" alt="" title=""/>
+					<img src="img/giaohangnhanh.PNG" alt="" title=""/>
 				</div> <!-- .cart-footer-2-a -->
 				<div class="cart-footer-2-b">
-					<img src="img/lazadaexpress.png" alt="" title=""/>
-					<img src="img/247express.png" alt="" title=""/>
-					<img src="img/giaohangtietkiem.png" alt="" title=""/>
-					<img src="img/viettelpost.png" alt="" title=""/>
+					<img src="img/lazadaexpress.PNG" alt="" title=""/>
+					<img src="img/247express.PNG" alt="" title=""/>
+					<img src="img/giaohangtietkiem.PNG" alt="" title=""/>
+					<img src="img/viettelpost.PNG" alt="" title=""/>
 				</div> <!-- .cart-footer-2-b -->
 			</div> <!-- .cart-footer-2 -->
 			<div class="cart-footer-3">
 				<h3> CHỨNG NHẬN </h3>
 				<div class="cart-footer-3-a">
-					<img src="img/chungnhan.png" title="" alt=""/>
+					<img src="img/chungnhan.PNG" title="" alt=""/>
 				</div> <!-- .cart-footer-3-a -->
 				<div class="cart-footer-3-b">
-					<img src="img/dadangki.png" alt="" title=""/>
-					<img src="img/dathongbao.png" alt="" title=""/>
-					<img src="img/norton.png" alt="" title=""/>
+					<img src="img/dadangki.PNG" alt="" title=""/>
+					<img src="img/dathongbao.PNG" alt="" title=""/>
+					<img src="img/norton.PNG" alt="" title=""/>
 				</div> <!-- .cart-footer-3-b -->
 			</div> <!-- .cart-footer-3 -->
 
@@ -237,32 +237,33 @@
 		<div id="connect">
 			<div class="country-connect">
 				<h2> Lazada Southeast Asia </h2>
-				<img src="img/con1.png" alt="" title=""/>
-				<img src="img/con2.png" alt="" title=""/>
-				<img src="img/con3.png" alt="" title=""/>
-				<img src="img/con4.png" alt="" title=""/>
-				<img src="img/con5.png" alt="" title=""/>
-				<img src="img/con6.png" alt="" title=""/>
+				<img src="img/con1.PNG" alt="" title=""/>
+				<img src="img/con2.PNG" alt="" title=""/>
+				<img src="img/con3.PNG" alt="" title=""/>
+				<img src="img/con4.PNG" alt="" title=""/>
+				<img src="img/con5.PNG" alt="" title=""/>
+				<img src="img/con6.PNG" alt="" title=""/>
 			</div> <!-- .country-connect -->
 
 			<div class="social-connect">
 				<h2> Kết nối với chúng tôi </h2>
-				<img src="img/fb.png" alt="" title=""/>
-				<img src="img/twit.png" alt="" title=""/>
-				<img src="img/insta.png" alt="" title=""/>
-				<img src="img/google.png" alt="" title=""/>
-				<img src="img/youtube.png" alt="" title=""/>
-				<img src="img/p.png" alt="" title=""/>
-				<img src="img/z.png" alt="" title=""/>
+				<img src="img/fb.PNG" alt="" title=""/>
+				<img src="img/twit.PNG" alt="" title=""/>
+				<img src="img/insta.PNG" alt="" title=""/>
+				<img src="img/google.PNG" alt="" title=""/>
+				<img src="img/youtube.PNG" alt="" title=""/>
+				<img src="img/p.PNG" alt="" title=""/>
+				<img src="img/z.PNG" alt="" title=""/>
 			</div> <!-- .social-connect -->
 			<div class="version">
 				<div class="version-a">
 					<p> Phiên bản mobile </p>
-					<img src="img/mobile.png" alt="" title=""/>
+					<img src="img/mobile.PNG" alt="" title=""/>
 				</div>
 				<div class="version-b">
 					<p> &copy; Lazada 2016 </p>
 				</div>
+				
 			</div> <!-- .version -->
 		</div> <!-- #connect -->
 	</div> <!-- #footer -->	
