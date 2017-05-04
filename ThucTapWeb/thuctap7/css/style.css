@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding: 0;
+}
+h1{
+	padding: 20px 0px;
+	color: red;
+}
+input[type=text]{
+	margin: 20px;
+	width: 20%;
+}
+input[type=submit]{
+	margin: 20px;
+}
+th{
+	color: red;
+	width: 10%;
+}
+td{
+	text-align: center;
+}
